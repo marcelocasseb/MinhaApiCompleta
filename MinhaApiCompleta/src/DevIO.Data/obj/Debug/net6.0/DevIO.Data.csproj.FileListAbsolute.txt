@@ -1,0 +1,15 @@
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
