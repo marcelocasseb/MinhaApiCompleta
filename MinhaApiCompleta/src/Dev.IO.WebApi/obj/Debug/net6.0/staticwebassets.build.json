@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "lQAqjmCwDRUI2tB+sFgPw/SHLh6e9lRKGlajeKLxdIc=",
+  "Hash": "cb9CYjJdyS39PGnqM7lmiazi7K6mpJPhuANz2vZ53Pg=",
   "Source": "Dev.IO.WebApi",
   "BasePath": "_content/Dev.IO.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dev.IO.WebApi\\wwwroot",
+      "Source": "Dev.IO.WebApi",
+      "ContentRoot": "C:\\programas\\Git\\MinhaApiCompleta\\MinhaApiCompleta\\src\\Dev.IO.WebApi\\wwwroot\\",
+      "BasePath": "_content/Dev.IO.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\programas\\Git\\MinhaApiCompleta\\MinhaApiCompleta\\src\\Dev.IO.WebApi\\wwwroot\\imagens\\09f38e7a-ce73-4752-b5f3-a3f4b3b7d03a_livro.jpg",
+      "SourceId": "Dev.IO.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\programas\\Git\\MinhaApiCompleta\\MinhaApiCompleta\\src\\Dev.IO.WebApi\\wwwroot\\",
+      "BasePath": "_content/Dev.IO.WebApi",
+      "RelativePath": "imagens/09f38e7a-ce73-4752-b5f3-a3f4b3b7d03a_livro.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\09f38e7a-ce73-4752-b5f3-a3f4b3b7d03a_livro.jpg"
+    }
+  ]
 }

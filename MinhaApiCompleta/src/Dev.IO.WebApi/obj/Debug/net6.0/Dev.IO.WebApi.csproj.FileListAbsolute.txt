@@ -87,3 +87,4 @@ C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\Dev.IO.WebApi\obj\Debug\n
 C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\Dev.IO.WebApi\obj\Debug\net6.0\Dev.IO.WebApi.pdb
 C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\Dev.IO.WebApi\obj\Debug\net6.0\Dev.IO.WebApi.genruntimeconfig.cache
 C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\Dev.IO.WebApi\obj\Debug\net6.0\ref\Dev.IO.WebApi.dll
+C:\programas\Git\MinhaApiCompleta\MinhaApiCompleta\src\Dev.IO.WebApi\bin\Debug\net6.0\Dev.IO.WebApi.staticwebassets.runtime.json
